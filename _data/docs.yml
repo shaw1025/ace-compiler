@@ -2,14 +2,26 @@
   docs:
   - home
 
-- title: Infrastructure
+- title: Cryptography & Application
   docs:
-  - infra
+  - secure
 
-- title: Neural Network Addon
+- title: Compiler
   docs:
-  - nn-addon
+  - cmplr
 
-- title: FHE Compiler
+- title: System
   docs:
-  - fhe-cmplr
+  - system
+
+- title: Parallel Computing
+  docs:
+  - accele
+
+- title: Architecture
+  docs:
+  - arch
+
+- title: Computing Arithmetic & Circuit
+  docs:
+  - arith
