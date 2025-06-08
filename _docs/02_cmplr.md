@@ -1,7 +1,7 @@
 ---
 title: FHE Compiler
-permalink: /docs/cmplr/
-redirect_from: /docs/cmplr.html
+permalink: /docs/02_cmplr/
+redirect_from: /docs/02_cmplr.html
 ---
 
 ## Getting started

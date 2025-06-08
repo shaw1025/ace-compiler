@@ -1,7 +1,7 @@
 ---
 title: GPU Accelerator
-permalink: /docs/accele/
-redirect_from: /docs/accele.html
+permalink: /docs/04_gpu/
+redirect_from: /docs/04_gpu.html
 ---
 
 ## Getting started

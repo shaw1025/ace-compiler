@@ -1,7 +1,7 @@
 ---
 title: Computing Arithmetic & Circuit
-permalink: /docs/arith/
-redirect_from: /docs/arith.html
+permalink: /docs/06_arith/
+redirect_from: /docs/06_arith.html
 ---
 
 ## Getting started

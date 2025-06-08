@@ -1,7 +1,7 @@
 ---
 title: Secure neural network
-permalink: /docs/secure/
-redirect_from: /docs/secure.html
+permalink: /docs/01_secure/
+redirect_from: /docs/01_secure.html
 ---
 
 ## Getting started

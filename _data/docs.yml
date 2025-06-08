@@ -4,24 +4,26 @@
 
 - title: Cryptography & Application
   docs:
-  - secure
+  - 01_secure
+  - 01_crypto
 
 - title: Compiler
   docs:
-  - cmplr
+  - 02_cmplr
 
 - title: System
   docs:
-  - system
+  - 03_system
 
 - title: Parallel Computing
   docs:
-  - accele
+  - 04_gpu
 
 - title: Architecture
   docs:
-  - arch
+  - 05_fpga
+  - 05_asic
 
 - title: Computing Arithmetic & Circuit
   docs:
-  - arith
+  - 06_arith

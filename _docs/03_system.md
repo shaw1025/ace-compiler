@@ -1,7 +1,7 @@
 ---
 title: System
-permalink: /docs/system/
-redirect_from: /docs/system.html
+permalink: /docs/03_system/
+redirect_from: /docs/03_system.html
 ---
 
 ## Getting started
