@@ -58,12 +58,19 @@ defaults:
     layout: post
     sectionid: pubs
 
+# - scope:
+#     path: _posts
+#     type: posts
+#   values:
+#     layout: post
+#     sectionid: posts
+
 - scope:
-    path: _posts
+    path: _tools
     type: posts
   values:
     layout: post
-    sectionid: posts
+    sectionid: tools
 
 collections:
   docs:

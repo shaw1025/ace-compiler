@@ -1,12 +1,10 @@
 ---
-title: Computing Arithmetic & Circuit
-permalink: /docs/06_arith/
-redirect_from: /docs/06_arith.html
+title: Tutorial
+permalink: /docs/06_tutorial/
+redirect_from: /docs/06_tutorial.html
 ---
 
-## Getting started
-
-**Introduction**:  TBD
+## Tutorial
 
 ## Modular multiplication
 
