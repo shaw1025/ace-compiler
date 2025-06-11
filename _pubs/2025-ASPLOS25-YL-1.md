@@ -2,8 +2,8 @@
 layout: pubs
 title:  "ReSBM: Region-based Scale and Minimal-Level Bootstrapping Management for FHE via Min-Cut"
 brief:  "ReSBM: CKKS Scale & Noise Management - ASPLOS 2025"
-date:   2024-12-10 09:41:09
-author: cmplr
+date:   2025-03-30
+author: Yan Liu
 ---
 
 ### Abstract
@@ -16,5 +16,4 @@ In this paper, we present ReSBM, a novel compiler technique that simultaneously 
 
 Yan Liu, Jianxin Lai*, Long Li, Tianxiang Sui, Linjie Xiao, Peng Yuan, Xiaojing Zhang, Qing Zhu, Wenguang Chen*, and Jingling Xue. 2025. ReSBM: Region-based Scale and Minimal-Level Bootstrapping Management for FHE via Min-Cut. In Proceedings of the 30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 1 (ASPLOS ’25), March 30–April 3, 2025, Rotterdam, Netherlands. ACM, New York, NY, USA, 16 pages. https://doi.org/10.1145/3669940.3707276
 
-[[Paper Download]](https://ant-research.github.io/ace-compiler/assets/RESBM_paper.pdf) 
-
+[[Paper Download]](https://dl.acm.org/doi/abs/10.1145/3669940.3707276) 

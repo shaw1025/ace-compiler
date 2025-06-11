@@ -6,7 +6,7 @@ redirect_from: /docs/06_paper.html
 
 ## Paper
 
-**Introduction**:  TBD
+- [A High-Performance, Conflict-Free Memory-Access Architecture for Modular Polynomial Multiplication](https://ieeexplore.ieee.org/abstract/document/10254605)
 
 ## Modular multiplication
 
