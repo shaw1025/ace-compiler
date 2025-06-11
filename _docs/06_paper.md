@@ -1,5 +1,5 @@
 ---
-title: Paper
+title: Outline
 permalink: /docs/06_paper/
 redirect_from: /docs/06_paper.html
 ---

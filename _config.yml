@@ -1,14 +1,14 @@
 # Site settings
-title: ANT-ACE
-email: laijianxin.ljx@antgroup.com
+title: ANT-FHE
+email: xiaolinjie.xlj@antgroup.com
 description: >
-  ANT-ACE: Advanced Compiler Ecosystem for Fully Homomorphic Encryption 
+  Privacy Computing Accelerators and AI Distributed Systems 
 lang: en-US
 
-baseurl: "/ace-compiler" # the subpath of your site, e.g. /blog/
-url: https://shaw1025/ace-compiler # the base hostname & protocol for your site
-git_address: https://github.com/shaw1025/ace-compiler
-git_edit_address: https://github.com/shaw1025/ace-compiler/docs
+baseurl: "/ant-fhe" # the subpath of your site, e.g. /blog/
+url: https://shaw1025/ant-fhe # the base hostname & protocol for your site
+git_address: https://github.com/shaw1025/ant-fhe
+git_edit_address: https://github.com/shaw1025/ant-fhe/docs
 
 # theme options from https://bootswatch.com/3/
 # comment out this to use default Bootstrap

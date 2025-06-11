@@ -1,13 +1,13 @@
 ---
 layout: default
-title: ANT-ACE
+title: ANT-FHE
 ---
 
 <div class="header-container jumbotron">
     <div class="container">
-        <h1>ANT-ACE</h1>
-        <p>Advanced Compiler Ecosystem for Fully Homomorphic Encryption and Domain Specific Computing</p>
-        <p><a class="btn btn-primary btn-lg" href="https://github.com/shaw1025/ace-compiler" role="button">View on Github</a></p>
+        <h1>Computing Systems Lab</h1>
+        <p>Privacy Computing Accelerators and AI Distributed Systems</p>
+        <p><a class="btn btn-primary btn-lg" href="https://www.antresearch.com/LaboratoryDetails/Computing-Systems-Laboratory-detail" role="button">Offical Website</a></p>
     </div>
 </div>
 
