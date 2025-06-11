@@ -9,7 +9,8 @@ layout: default
             <div class="well">
                 <h4>RECENT PUBLICATIONS</h4>
                 <ul class="list-unstyled post-list-container">
-                    {% for pubs in site.pubs limit:10 %}
+                    {% assign sorted_pubs = site.pubs | sort: 'date' | reverse %}
+                    {% for pubs in sorted_pubs limit:20 %}
                     <li><a href="{{ pubs.url | relative_url }}" {% if page.title==pubs.title %} class="active" {% endif %}>{{ pubs.brief }}</a></li>
                     {% endfor %}
                 </ul>

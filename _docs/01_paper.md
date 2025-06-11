@@ -4,7 +4,7 @@ permalink: /docs/01_paper/
 redirect_from: /docs/01_paper.html
 ---
 
-## Paper
+## Getting started
 
 **Introduction: TBD**
 
@@ -13,5 +13,3 @@ redirect_from: /docs/01_paper.html
 TBD
 
 ## Cryptographic function
-
-- [A High-Performance Low-Power Barrett Modular Multiplier for Cryptosystems](https://ieeexplore.ieee.org/document/9502490)

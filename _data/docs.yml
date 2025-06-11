@@ -4,30 +4,24 @@
 
 - title: Cryptography & Application
   docs:
-  - 01_tutorial
   - 01_paper
 
 - title: Compiler
   docs:
-  - 02_tutorial
   - 02_paper
 
 - title: System
   docs:
-  - 03_tutorial
   - 03_paper
 
 - title: Parallel Computing
   docs:
-  - 04_tutorial
   - 04_paper
 
 - title: Architecture
   docs:
-  - 05_tutorial
   - 05_paper
 
 - title: Computing Arithmetic & Circuit
   docs:
-  - 06_tutorial
   - 06_paper
