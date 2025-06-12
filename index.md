@@ -14,7 +14,7 @@ title: ANT-FHE
 <div align="center">
 <div style="width: 768px" align="left">
 
-<b>We are a leading research team focusing on full-stack acceleration techniques for Fully Homomorphic Encryption (FHE). Our work involves high performance computer architecture, HW/SW codesign, Compiler, FHE algorithm, AI accelerator, privacy preserving computation and system software.</b>
+<h3>We are a leading research team focusing on full-stack acceleration techniques for Fully Homomorphic Encryption (FHE). Our work involves computing arithmetic, computer architecture, HW/SW codesign in GPU/FPGA/ASIC, compiler, FHE algorithm, AI accelerator, privacy preserving computation, and system software.</h3>
 
 </div>
 </div>
